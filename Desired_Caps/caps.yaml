@@ -1,0 +1,10 @@
+platformVersion: 6.0
+platformName: Android
+#deviceName: Emulator
+deviceName: M9N7N15930001618
+appPackage: com.tencent.wework
+appActivity: com.tencent.wework.launch.LaunchSplashActivity
+noReset: True
+unicodeKeyboard: True
+resetKeyboard: True
+#automationName: UiAutomator2
